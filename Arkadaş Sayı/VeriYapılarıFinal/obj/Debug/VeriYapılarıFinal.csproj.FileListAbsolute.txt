@@ -1,0 +1,40 @@
+C:\Users\hp-pc\source\repos\VeriYapılarıFinal\VeriYapılarıFinal\bin\Debug\VeriYapılarıFinal.exe.config
+C:\Users\hp-pc\source\repos\VeriYapılarıFinal\VeriYapılarıFinal\bin\Debug\VeriYapılarıFinal.exe
+C:\Users\hp-pc\source\repos\VeriYapılarıFinal\VeriYapılarıFinal\bin\Debug\VeriYapılarıFinal.pdb
+C:\Users\hp-pc\source\repos\VeriYapılarıFinal\VeriYapılarıFinal\obj\Debug\VeriYapılarıFinal.csprojAssemblyReference.cache
+C:\Users\hp-pc\source\repos\VeriYapılarıFinal\VeriYapılarıFinal\obj\Debug\VeriYapılarıFinal.Properties.Resources.resources
+C:\Users\hp-pc\source\repos\VeriYapılarıFinal\VeriYapılarıFinal\obj\Debug\VeriYapılarıFinal.csproj.GenerateResource.cache
+C:\Users\hp-pc\source\repos\VeriYapılarıFinal\VeriYapılarıFinal\obj\Debug\VeriYapılarıFinal.csproj.CoreCompileInputs.cache
+C:\Users\hp-pc\source\repos\VeriYapılarıFinal\VeriYapılarıFinal\obj\Debug\VeriYapılarıFinal.exe
+C:\Users\hp-pc\source\repos\VeriYapılarıFinal\VeriYapılarıFinal\obj\Debug\VeriYapılarıFinal.pdb
+C:\Users\hp-pc\source\repos\VeriYapılarıFinal\VeriYapılarıFinal\obj\Debug\VeriYapılarıFinal.Form1.resources
+C:\Users\hp-pc\Desktop\VeriYapılarıFinal\VeriYapılarıFinal\bin\Debug\VeriYapılarıFinal.exe.config
+C:\Users\hp-pc\Desktop\VeriYapılarıFinal\VeriYapılarıFinal\bin\Debug\VeriYapılarıFinal.exe
+C:\Users\hp-pc\Desktop\VeriYapılarıFinal\VeriYapılarıFinal\bin\Debug\VeriYapılarıFinal.pdb
+C:\Users\hp-pc\Desktop\VeriYapılarıFinal\VeriYapılarıFinal\obj\Debug\VeriYapılarıFinal.csprojAssemblyReference.cache
+C:\Users\hp-pc\Desktop\VeriYapılarıFinal\VeriYapılarıFinal\obj\Debug\VeriYapılarıFinal.Form1.resources
+C:\Users\hp-pc\Desktop\VeriYapılarıFinal\VeriYapılarıFinal\obj\Debug\VeriYapılarıFinal.Properties.Resources.resources
+C:\Users\hp-pc\Desktop\VeriYapılarıFinal\VeriYapılarıFinal\obj\Debug\VeriYapılarıFinal.csproj.GenerateResource.cache
+C:\Users\hp-pc\Desktop\VeriYapılarıFinal\VeriYapılarıFinal\obj\Debug\VeriYapılarıFinal.csproj.CoreCompileInputs.cache
+C:\Users\hp-pc\Desktop\VeriYapılarıFinal\VeriYapılarıFinal\obj\Debug\VeriYapılarıFinal.exe
+C:\Users\hp-pc\Desktop\VeriYapılarıFinal\VeriYapılarıFinal\obj\Debug\VeriYapılarıFinal.pdb
+C:\Users\hp-pc\Desktop\Veri Yapıları Final Ödevi\Arkadaş Sayı\VeriYapılarıFinal\bin\Debug\VeriYapılarıFinal.exe.config
+C:\Users\hp-pc\Desktop\Veri Yapıları Final Ödevi\Arkadaş Sayı\VeriYapılarıFinal\bin\Debug\VeriYapılarıFinal.exe
+C:\Users\hp-pc\Desktop\Veri Yapıları Final Ödevi\Arkadaş Sayı\VeriYapılarıFinal\bin\Debug\VeriYapılarıFinal.pdb
+C:\Users\hp-pc\Desktop\Veri Yapıları Final Ödevi\Arkadaş Sayı\VeriYapılarıFinal\obj\Debug\VeriYapılarıFinal.csprojAssemblyReference.cache
+C:\Users\hp-pc\Desktop\Veri Yapıları Final Ödevi\Arkadaş Sayı\VeriYapılarıFinal\obj\Debug\VeriYapılarıFinal.Form1.resources
+C:\Users\hp-pc\Desktop\Veri Yapıları Final Ödevi\Arkadaş Sayı\VeriYapılarıFinal\obj\Debug\VeriYapılarıFinal.Properties.Resources.resources
+C:\Users\hp-pc\Desktop\Veri Yapıları Final Ödevi\Arkadaş Sayı\VeriYapılarıFinal\obj\Debug\VeriYapılarıFinal.csproj.GenerateResource.cache
+C:\Users\hp-pc\Desktop\Veri Yapıları Final Ödevi\Arkadaş Sayı\VeriYapılarıFinal\obj\Debug\VeriYapılarıFinal.csproj.CoreCompileInputs.cache
+C:\Users\hp-pc\Desktop\Veri Yapıları Final Ödevi\Arkadaş Sayı\VeriYapılarıFinal\obj\Debug\VeriYapılarıFinal.exe
+C:\Users\hp-pc\Desktop\Veri Yapıları Final Ödevi\Arkadaş Sayı\VeriYapılarıFinal\obj\Debug\VeriYapılarıFinal.pdb
+C:\Users\hp-pc\Desktop\Arkadaş Sayı\VeriYapılarıFinal\bin\Debug\VeriYapılarıFinal.exe.config
+C:\Users\hp-pc\Desktop\Arkadaş Sayı\VeriYapılarıFinal\bin\Debug\VeriYapılarıFinal.exe
+C:\Users\hp-pc\Desktop\Arkadaş Sayı\VeriYapılarıFinal\bin\Debug\VeriYapılarıFinal.pdb
+C:\Users\hp-pc\Desktop\Arkadaş Sayı\VeriYapılarıFinal\obj\Debug\VeriYapılarıFinal.csprojAssemblyReference.cache
+C:\Users\hp-pc\Desktop\Arkadaş Sayı\VeriYapılarıFinal\obj\Debug\VeriYapılarıFinal.Form1.resources
+C:\Users\hp-pc\Desktop\Arkadaş Sayı\VeriYapılarıFinal\obj\Debug\VeriYapılarıFinal.Properties.Resources.resources
+C:\Users\hp-pc\Desktop\Arkadaş Sayı\VeriYapılarıFinal\obj\Debug\VeriYapılarıFinal.csproj.GenerateResource.cache
+C:\Users\hp-pc\Desktop\Arkadaş Sayı\VeriYapılarıFinal\obj\Debug\VeriYapılarıFinal.csproj.CoreCompileInputs.cache
+C:\Users\hp-pc\Desktop\Arkadaş Sayı\VeriYapılarıFinal\obj\Debug\VeriYapılarıFinal.exe
+C:\Users\hp-pc\Desktop\Arkadaş Sayı\VeriYapılarıFinal\obj\Debug\VeriYapılarıFinal.pdb
